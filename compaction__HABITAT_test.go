@@ -544,7 +544,7 @@ func TestCompaction__HABITAT(t *testing.T) {
 			minVersion: formatDeprecatedExperimentalValueSeparation,
 			maxVersion: formatDeprecatedExperimentalValueSeparation,
 		},
-		"l0_to_lbase_compaction": {
+		"l0_to_lbase_compaction__HABITAT": {
 			minVersion: formatDeprecatedExperimentalValueSeparation,
 			maxVersion: formatDeprecatedExperimentalValueSeparation,
 		},
